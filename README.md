@@ -10,7 +10,7 @@ I'm a **Computer Engineering Student (Co-op)** at the University of Guelph. I am
   - **Research Assistant** positions and Summer 2026 Co-op opportunities where I can apply my engineering skills to solve complex problems.
 
 - 🌱 **I’m currently learning ...**
-  - Data Structures, Algorithms, and Software Systems Design.
+  - Data Structures, Algorithms.
 
 - 👯 **I’m looking to collaborate on ...**
   - Open-source Java projects.
@@ -18,7 +18,6 @@ I'm a **Computer Engineering Student (Co-op)** at the University of Guelph. I am
 
 - 💬 **Ask me about ...**
   - Java, C, and OOP principles.
-  - Audio Engineering & Music Production workflows.
   - Competitive gaming strategies.
 
 - ⚡ **Fun fact ...**
