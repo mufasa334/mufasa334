@@ -1,16 +1,34 @@
-## Hi there 👋
+### Hi there, I'm Mustafa Aljanabi 👋
 
-<!--
-**mufasa334/mufasa334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering Student (Co-op)** at the University of Guelph. I am passionate about building efficient, scalable software and mastering the fundamentals of system architecture.
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on ...**
+  - Advanced **Object-Oriented Programming (Java)** and Design Patterns.
+  - Strengthening my understanding of low-level programming in C.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **I’m actively looking for ...**
+  - **Research Assistant** positions and Summer 2026 Co-op opportunities where I can apply my engineering skills to solve complex problems.
+
+- 🌱 **I’m currently learning ...**
+  - Data Structures, Algorithms, and Software Systems Design.
+
+- 👯 **I’m looking to collaborate on ...**
+  - Open-source Java projects.
+  - Tools that bridge the gap between **Audio Engineering** and Software.
+
+- 💬 **Ask me about ...**
+  - Java, C, and OOP principles.
+  - Audio Engineering & Music Production workflows.
+  - Competitive gaming strategies.
+
+- ⚡ **Fun fact ...**
+  - I produce music in my free time; I treat my code structure the same way I treat a mix—clean, organized, and free of noise.
+
+---
+
+### 🛠️ Languages and Tools
+`Java` `C` `Git` `VS Code` `IntelliJ IDEA`
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=mufasa334&label=Profile%20Views&color=12&icon=5&pretty=true)](https://github.com/mufasa334)
