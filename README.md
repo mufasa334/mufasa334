@@ -15,7 +15,10 @@ I'm a **Computer Engineering Student (Co-op)** at the University of Guelph. I am
 - 👯 **I’m looking to collaborate on ...**
   - Open-source Java projects.
   - Tools that bridge the gap between **Audio Engineering** and Software.
-
+  
+- 📫 **To reach out to me ...**
+  - My email is: sofi.uae6@gmail.com
+  
 - 💬 **Ask me about ...**
   - Java, C, and OOP principles.
   - Competitive gaming strategies.
