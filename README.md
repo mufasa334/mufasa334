@@ -24,7 +24,7 @@ I'm a **Computer Engineering Student (Co-op)** at the University of Guelph. I am
   - Competitive gaming strategies.
 
 - ⚡ **Fun fact ...**
-  - I produce music in my free time; I treat my code structure the same way I treat a mix—clean, organized, and free of noise.
+  - I enjoy playing video games, making music in my free time as well.
 
 ---
 
