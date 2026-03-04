@@ -49,7 +49,3 @@ An AI-driven system management tool designed to optimize gaming performance and 
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=mufasa334&icon=0&color=0" alt="Visitor Count" />
-</p>
