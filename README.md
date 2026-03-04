@@ -42,8 +42,10 @@ An AI-driven system management tool designed to optimize gaming performance and 
 ---
 
 ## 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mufasa334&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Stats" /><img src="https://nirzak-streak-stats.vercel.app/?user=mufasa334&theme=dark&hide_border=false" alt="Streak" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufasa334&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Langs" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=mufasa334&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=mufasa334&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mufasa334&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
