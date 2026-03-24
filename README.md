@@ -16,7 +16,7 @@ I am actively seeking **Summer 2026 Co-op** opportunities where I can apply my e
 ---
 
 ## 🚀 Featured Project: IGL-AI
-**Intelligent Game Launcher** | *Java, C, JavaFX*
+**Intelligent Game Launcher** | *Java, JavaFX*
 
 An AI-driven system management tool designed to optimize gaming performance and library organization.
 * **Low-Level Optimization:** Focused on resource allocation and reduced system latency.
