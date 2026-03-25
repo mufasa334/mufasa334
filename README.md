@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm **Mustafa**. I am a **Computer Engineering** student at the University of Guelph with a focus on low-level programming and software architecture.
 
-I am currently developing **IGL-AI**, an intelligent game launcher designed to optimize user experience and system management. My work centers on practical, efficient code, with a strong foundation in **Java** and **C**.
+I am currently developing **IGL-AI**, an intelligent game launcher designed to optimize user experience and system management. My work centers on practical, efficient code, with a strong foundation in **Java**.
 
 I am actively seeking **Summer 2026 Co-op** opportunities where I can apply my engineering skills to solve complex problems. When I'm not coding, I apply my creative mindset to hip-hop music production.
 
